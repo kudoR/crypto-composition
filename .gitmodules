@@ -1,3 +1,6 @@
 [submodule "crypto-scraper"]
 	path = crypto-scraper
 	url = https://github.com/kudoR/crypto-scraper.git
+[submodule "crypto-bi"]
+	path = crypto-bi
+	url = https://github.com/kudoR/crypto-bi.git
