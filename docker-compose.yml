@@ -26,9 +26,5 @@ services:
     - "SPRING_DATASOURCE_URL=jdbc:mysql://db:3306/crypto_scraper_db"
     - "SPRING_DATASOURCE_USERNAME=root"
     - "SPRING_DATASOURCE_PASSWORD=secret"
- grafana:
-  image: grafana/grafana
-  ports:
-   - "3000:3000"
 volumes:
  db-data:
