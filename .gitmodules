@@ -1,0 +1,3 @@
+[submodule "crypto-scraper"]
+	path = crypto-scraper
+	url = https://github.com/kudoR/crypto-scraper.git
